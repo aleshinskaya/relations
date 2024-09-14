@@ -1,3 +1,9 @@
+## Relational composition during attribute retrieval in GPT is not purely linear
+
+This is a fork of a repository by other authors (detailes below), with which we supplement code for our paper, "Relational composition during attribute retrieval in GPT is not purely linear". We inherit most functionality and dependencies from this prior repository. Our additional are located under the branch mbm-investigation/ under notebooks/anon-2024/ and are designed to be run in Google Colab (which clones this repository in Google Drive). See directions within that notebook for replicating our results.
+
+## Original repository:
+
 # Linearity of Relation Decoding in Transformer LMs
 
 This repository contains the code used for the experiments in the paper [Linearity of Relation Decoding in Transformer LMs](https://arxiv.org/abs/2308.09124). 
