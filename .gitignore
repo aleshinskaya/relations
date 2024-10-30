@@ -146,3 +146,9 @@ scan-for-best*
 
 # debug logs
 *.out
+
+# data
+.jupyter
+
+# Pytorch model checkpoints
+*.pt
